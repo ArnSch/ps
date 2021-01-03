@@ -9,6 +9,11 @@ import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
 
+function joinGramatically(list, joiner, connectingWord) {
+  const lastItem = list.pop()
+  return `${list.join(joiner)}, ${connectingWord} ${lastItem}`
+}
+
 const Bio = () => {
   const data = useStaticQuery(graphql`
     query BioQuery {
@@ -25,6 +30,14 @@ const Bio = () => {
             name
             summary
           }
+          interests {
+            intro
+            items
+          }
+          secondaryInterests {
+            intro
+            items
+          }
           social {
             twitter
           }
@@ -35,30 +48,28 @@ const Bio = () => {
 
   // Set these values by editing "siteMetadata" in gatsby-config.js
   const author = data.site.siteMetadata?.author
+  const interests = data.site.siteMetadata?.interests
+  const secondaryInterests = data.site.siteMetadata?.secondaryInterests
+  const listOfInterest = joinGramatically(interests.items, `, `, 'and')
+  const listOfSecondaryInterests = joinGramatically(secondaryInterests.items, `, `, 'and')
   const social = data.site.siteMetadata?.social
 
   const avatar = data?.avatar?.childImageSharp?.fixed
 
   return (
     <div className="bio">
-      {avatar && (
-        <Image
-          fixed={avatar}
-          alt={author?.name || ``}
-          className="bio-avatar"
-          imgStyle={{
-            borderRadius: `50%`,
-          }}
-        />
-      )}
       {author?.name && (
-        <p>
-          Written by <strong>{author.name}</strong> {author?.summary || null}
+        <div>
+          <p>{author?.summary || null}.</p>
+
+          <p>{interests?.intro || null} <b>{listOfInterest || null}</b>.</p>
+          <p>{secondaryInterests?.intro || null} <b>{listOfSecondaryInterests || null}</b>.</p>
           {` `}
           <a href={`https://twitter.com/${social?.twitter || ``}`}>
-            You should follow them on Twitter
+            You can follow me on Twitter
           </a>
-        </p>
+          .
+        </div>
       )}
     </div>
   )

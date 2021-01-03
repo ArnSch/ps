@@ -1,14 +1,32 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Arnaud Schenk`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Arnaud Schenk`,
+      summary: `I occasionally host essays on this site`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    interests: {
+      intro: `I'm most interested in`,
+      items: [
+        `communities`,
+        `the process of becoming`,
+        `education`,
+        `the culture of technology`,
+        `the history of culture`,
+      ],
+    },
+    secondaryInterests: {
+      intro: `I'm also currently thinking about`, 
+      items: [
+        `payments`,
+        `human computer interaction`,
+        `the future`,
+      ]
+    },
+    description: ``,
+    siteUrl: `https://gestalt.cafe`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `_arnauds_`,
     },
   },
   plugins: [
