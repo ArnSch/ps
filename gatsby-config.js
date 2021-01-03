@@ -23,7 +23,7 @@ module.exports = {
         `the future`,
       ]
     },
-    description: ``,
+    description: `Arnaud's Blog`,
     siteUrl: `https://gestalt.cafe`,
     social: {
       twitter: `_arnauds_`,
