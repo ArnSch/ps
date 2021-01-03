@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Arnaud Schenk`,
+    title: `Arnaud's Blog`,
     author: {
       name: `Arnaud Schenk`,
       summary: `I occasionally host essays on this site`,
@@ -78,13 +78,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Gestalt`,
+        short_name: `Gestalt`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/favicon.ico`,
       },
     },
     `gatsby-plugin-react-helmet`,

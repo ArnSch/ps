@@ -1,4 +1,5 @@
 # Scrubbing off the Day-Glo
+
 There's this "bundle of beliefs" which I've been trying to untangle recently. I've mostly seen it among folks in the orbit of Silicon Valley, but it is definitely not exclusive to them, and it would be a mistake to scope it to a physical location. It has been appropriated and moulded by a whole set of connected social movements, over the years, and versions of it are mainstream.
 
 After pulling on some threads, it seems to me that at the core of this bundle sits the belief that the world is nothing more than a complex and interconnected ecosystem of disembodied (or soon to be disembodied) actors who deal primarily in information, constrained by systems of incentive. 
