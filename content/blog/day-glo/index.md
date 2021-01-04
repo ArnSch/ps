@@ -60,7 +60,7 @@ Ken Kesey’s famous and deeply influential Merry Pranksters, and the more than 
 > 
 > (p. 70, [The Electric Kool-Aid Acid Test](https://en.wikipedia.org/wiki/The_Electric_Kool-Aid_Acid_Test))
 
-These ideas were also merged with theories of societal organisation coming from thinkers like Buckminster Fuller, a systems theorist and occasional mystic who who saw the world as the reflection of a system of intangible patterns. From this belief, Fuller developed the ideal of the Comprehensive Designer, an enlightened individual who had acquired knowledge of these hidden rules and who could, if presented with enough information, perfectly distribute resources and direct society.
+These ideas were also merged with theories of societal organisation coming from thinkers like Buckminster Fuller, a systems theorist and occasional mystic who saw the world as the reflection of a system of intangible patterns. From this belief, Fuller developed the ideal of the Comprehensive Designer, an enlightened individual who had acquired knowledge of these hidden rules and who could, if presented with enough information, perfectly distribute resources and direct society.
 
 The counterculture embraced psychedelics and media as instruments of this broad vision, perhaps most fully developed by the Pranksters. Under LSD, the true patterns of information which governed the world seemed visible. Combining drugs with art, performance, and shared experiences, they hoped to irrevocably shift where individual consciousness ended and where the group's began, the next step towards a more harmonious world ruled by invisible flows of information, without confrontation.
 
