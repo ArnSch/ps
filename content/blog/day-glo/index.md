@@ -137,4 +137,4 @@ It's especially important to remember that while some of our clearest visions of
 
 We should consider whether the solutions to our problems involve things which we consider taboo, which feel risky and prone to abuse. Solutions which will never scale, never be made systematic, or which will always require considerable human trust, individual judgement, and discretionary power.
 
-We might, on the other side of this soul searching, decide that our future requires reshaping our world to better fit countercultural ideals, as is implicitly the stereotypical goal of Crypto's dogmatic factions and other semi-utopian transhumanists. Or we might instead discover new ways forward, unconstrained by the lies we've forgotten we tell.
+We might, on the other side of this soul searching, decide that our future requires reshaping our world to better fit countercultural ideals, as is implicitly the stereotypical goal of semi-utopian transhumanists or Crypto's dogmatic factions. Or we might instead discover new ways forward, unconstrained by the lies we've forgotten we tell.
