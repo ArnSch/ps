@@ -127,7 +127,7 @@ As the culture of Silicon Valley has come to be the culture of technology and of
 
 - - - -
 
-It's important to note that the ideological backdrop provided by the counterculture of the 60s and 70s has proved incredibly beneficial, on net. I doubt social networking, search, and many of the underlying structures of the internet would have developed like they did without this ideological and cultural background. They helped us think about scale, helped shape a useful optimism about the Internet, and many of the freedom-enhancing pieces of legislation (like the liberalisation of cryptography, and Article 230) could not have happened in a vacuum.
+It's important to note that the ideological backdrop provided by the counterculture of the 60s and 70s has proved incredibly valuable, on net. I doubt social networking, search, and many of the underlying structures of the internet would have developed like they did without this ideological and cultural background. They helped us think about scale, helped shape a useful optimism about the Internet, and many of the freedom-enhancing pieces of legislation (like the liberalisation of cryptography, and Article 230) could not have happened in a vacuum.
 
 Even the purest descendant of the counterculture, Crypto, if nothing else, has provided a unique environment where a generation equally interested and capable in engineering, mechanism design, economics, and community management on the internet can develop and experiment. There are very few versions of the future where this isn't beneficial.
 
