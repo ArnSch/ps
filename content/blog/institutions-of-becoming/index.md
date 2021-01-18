@@ -1,0 +1,16 @@
+# Rough thoughts on "Institutions of becoming"
+If [Entrepreneur First](https://www.joinef.com/) is currently about helping people access and wield [Technologies of Ambition](https://medium.com/entrepreneur-first/tech-entrepreneurship-and-the-disruption-of-ambition-4e6854121992), "Institutions of Becoming" are where people acquire the **direction** they want to wield these in.
+
+Becoming is not necessarily institutionalised, it's often complicated and messy and hard to untangle. Making it legible and structured is not the goal, but it's also wrong to think that it's only ever organic and emergent.
+
+Becoming is collaborative and social, involves (but is not limited to) the acquisition of hard skills, and benefits from the presence and access to mimetic models (roles to "try on" and emulate). Since Becoming is a process through which you push yourself towards a new identity, social enforcement of an existing identity can make the process daunting or weirdly shameful.
+
+Universities, in this framework, used to be fantastic institutions. Not only did they provide everything needed to develop hard skills, they also gave you (to use a phrase from a friend) "teleological air cover" while you explored and changed. Universities were a path which was acceptable and legible to the social network you were embedded within prior to becoming, while at the same time being largely inaccessible to it. They offered a path of temporary escape from the often rigid expectations coming from others' beliefs about who you were, without the costs typically associated with exiting or breaking with a community.
+
+As they've become unattractive because of price, politics, or perceived value, their replacements have tended to be unbundled: tools and content to develop skills without community, community without the structure and resources needed to guide the acquisition of hard skills. Neither providing people in the process of becoming the social acceptability or teleological air cover they need. Startups do provide an alternative path for some fields, but it is perhaps best thought of as a return to apprenticeship: learning of a trade, with outcomes heavily dependent on timing, the specifics of the company and on your manager's skills.
+
+As a result, Becoming is perhaps more individual, error prone, and reliant on lucky interactions than it used to be, requiring more mixing and matching. The way forward is most likely leaning in to the current trends instead of trying to return to a more rigid and institutionalised forms of education, but it seems obvious that nothing which is currently out there is actually... great. 
+
+Existing communities adopting and building tools which help members have more meaningful paths of growth (finding ways to offer more structured and coherent paths of Becoming) seems more promising than either existing tools creating communities, or old institutions trying to transform themselves for this new world we live in. These communities might struggle to create great experiences, and will need to find a way to give their members broader legitimacy, though.
+
+Long form way of saying "I'm interested but have not come to definite conclusions"! Hence, would love to talk to folks who might be relevant!
